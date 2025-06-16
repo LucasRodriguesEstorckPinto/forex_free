@@ -101,7 +101,7 @@ async def enviar_sinal():
         f"❌ *LOSSES:* {losses}\n"
         f"🎯 *TAXA DE ACERTO:* {taxa_acerto:.2f}%\n"
         f"📈 *TOTAL DE OPERAÇÕES:* {total_operacoes}\n\n"
-        "🚀 *Quer mais sinais? Confira o VIP!* 👉 [google.com](https://google.com)"
+        "🚀 *Quer mais sinais? Confira o VIP!* 👉 [SNIPER BINÁRIO VIP](https://sniperbinario.site/)"
     )
 
     await bot.send_message(chat_id=CHAT_ID, text=mensagem_relatorio, parse_mode="Markdown")
