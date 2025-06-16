@@ -65,7 +65,7 @@ async def enviar_sinal():
         "✅ Resultados consistentes\n"
         "🚀 Suporte exclusivo\n"
         "🔐 Área de membros VIP\n\n"
-        "👉 *Garanta sua vaga agora:* [CLIQUE AQUI](https://google.com)"
+        "👉 *Garanta sua vaga agora:* [SNIPER BINÁRIO VIP](https://sniperbinario.site/)"
     ),
     parse_mode="Markdown"
 )
