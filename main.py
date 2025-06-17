@@ -73,7 +73,7 @@ async def enviar_sinal():
 
         await asyncio.sleep(900)  # Espera 15 min (simula operação)
 
-        resultado = "WIN" if random.random() < 0.8 else "LOSS"
+        resultado = "WIN" if random.random() < 0.7 else "LOSS"
 
         if resultado == "WIN":
             wins += 1
